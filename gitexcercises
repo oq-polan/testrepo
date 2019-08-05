@@ -1,0 +1,23 @@
+creating an empty local repository:
+git init
+
+cloned a repository from outside:
+git clone <URL>
+
+check what was changed since last commit:
+git status
+
+add files to be commited:
+git add <FILENAME>
+
+commiting changes:
+git commit
+
+viewing logs of commits:
+git log
+
+sending changes to github (outside):
+git push
+
+getting newest version from github (outside):
+git pull
